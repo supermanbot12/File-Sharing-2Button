@@ -14,14 +14,15 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 
 ##
 ### Installation
-#### Deploy on Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ReyyNada/ReyyFileSharing2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+## <p align="center">DEPLOY TO WEB HEROKU</p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/supermanbot12/File-Sharing-2Button">
+  <img src="https://img.shields.io/badge/Deploy%20To%20Web-cyan?style=flat&logo=heroku" width="220" height="38.45" /></a></p>
 
 
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/ReyyNada/ReyyFileSharing2
+git clone https://github.com/supermanbot12/File-Sharing-2Button
 cd File-Sharing
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -78,7 +79,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/pantekyks) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/mahadappa) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/exotisidbos) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/tentangsayaa13) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
