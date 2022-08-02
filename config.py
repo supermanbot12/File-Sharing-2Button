@@ -32,8 +32,8 @@ PROTECT_CONTENT = os.environ.get("PROTECT_CONTENT", "False")
 DB_URI = os.environ.get("DATABASE_URL", "")
 
 # Username CH & Group
-CHANNEL = os.environ.get("CHANNEL", "mahadappa")
-GROUP = os.environ.get("GROUP", "pantekyks")
+CHANNEL = os.environ.get("CHANNEL", "bebas")
+GROUP = os.environ.get("GROUP", "exotisidbos")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
 FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "0"))
