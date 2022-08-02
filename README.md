@@ -1,8 +1,9 @@
 # File-Sharing
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
-
-<img src="https://telegra.ph/file/c628278158186a91644c5.jpg">
+<p align="center">
+  <img src="https://telegra.ph/file/0be7f54e3cfb5234102c6.jpg">
+</p>
 
 
 ### FILE SHARING 2 BUTTON 
